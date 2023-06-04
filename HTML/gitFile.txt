@@ -1,5 +1,5 @@
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+ git config --global user.email "9haritha@gmail.com"
+  git config --global user.name "ManukaHaritha"
 
 first time:
 ----------------
@@ -14,5 +14,10 @@ second time:
 -------------
 git init
 git add .
-git commit -m "first commit"
+git commit -m "some name"
 git push 
+
+Cloning:
+----------
+git clone https://github.com/Thaneshwara848/MEAN-Stack.git
+git clone url(All the data you want of a particular url)
