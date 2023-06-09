@@ -1,0 +1,29 @@
+ git config --global user.email "9haritha@gmail.com"
+  git config --global user.name "ManukaHaritha"
+
+first time:
+----------------
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ManukaHaritha/SL_MeanStack.git
+git push -u origin main
+
+second time:
+-------------
+git init
+git add .
+git commit -m "some name"
+git push 
+
+Cloning:
+----------
+git clone https://github.com/Thaneshwara848/MEAN-Stack.git
+git clone url(All the data you want of a particular url)
+
+Creating new branch:
+-----------------------
+git checkout -b "Haritha"
+(Branch name with Haritha is created
+)
