@@ -20,6 +20,8 @@ git push
 Cloning:
 ----------
 git clone https://github.com/Thaneshwara848/MEAN-Stack.git
+https://github.com/Thaneshwara848/MEAN.git
+https://github.com/Thaneshwara848
 git clone url(All the data you want of a particular url)
 
 Creating new branch:
@@ -27,3 +29,23 @@ Creating new branch:
 git checkout -b "Haritha"
 (Branch name with Haritha is created
 )
+
+
+
+
+Batch mate git link:
+--------------------
+together with recording For step by step notes follow me at: https://github.com/acepriyesh/PriyeshPatel_MEAN/tree/codingstartsdemo10 
+
+Bootstrap link:
+---------------
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_default&stacked=h
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+http://getbootstrap.dk/2.3.2/getting-started.html
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+https://www.tutlane.com/tutorial/font-icons/bootstrap-glyphicon-icons-list
