@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="e"></p>
+    <script>
+
+        function emp(fn,ln,age,sal){
+
+            this.fn=fn;
+            this.ln=ln;
+            this.age=age;
+            this.sal=sal;
+        }
+        const myemps=new emp("Anitha","K",36,100000);
+        emp.prototype.designation="Manager";
+        document.getElementById('e').innerHTML="My name is"+" "+myemps.fn+"and age is"+" "+myemps.age+" "+"and designation is" +" "+myemps.designation ;
+    </script>
+</body>
+</html>

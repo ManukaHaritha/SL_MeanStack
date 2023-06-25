@@ -32,6 +32,16 @@ git checkout -b "Haritha"
 (Branch name with Haritha is created
 )
 
+Trainer Project:
+-----------------------
+https://github.com/Thaneshwara848?tab=repositories
+
+
+Java script tutorial:
+-----------------------------
+Eloquent JavaScript is good.  
+It is available free online. 
+https://eloquentjavascript.net/2nd_edition/
 
 
 
@@ -51,3 +61,54 @@ http://getbootstrap.dk/2.3.2/getting-started.html
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 https://www.tutlane.com/tutorial/font-icons/bootstrap-glyphicon-icons-list
+
+
+Topics taught:
+--------------------
+
+
+HTML 
+	CSS 
+	Bootstarcp 
+	basic javaScript 
+
+
+javaScript 
+
+Bootsrcp 5: glyphicons 
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Thaneshwara848/SL_MeanStack.git
+git push -u origin main
+
+git init
+git add README.md
+git commit -m "first commit"
+git push 
+
+
+
+  git config --global user.email "thaneshwaramanjunatha@gmail.com"
+  git config --global user.name "Thaneshwara"
+
+
+===============================
+HTML
+                   Break (<br></br>)
+                   Paragraph (<p></p> Paragraph tag gives one more line)
+                   HR (<hr> horizontal tag gives one line)
+
+                   Closing Tags - H1-H6, Span, div, P 
+                   Non Closing Tags - HR, BR, IMG
+                   Ordered & Un-Ordered List 
+                    Table - Table. th, td , cellspacing, rowspan, colspan
+                    images :
+                    Links: 
+                    input forms 
+                    audio / vedio
+                    map :

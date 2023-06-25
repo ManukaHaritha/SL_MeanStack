@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        function tot(){
+            a=  parseInt( document.f1.a.value);
+           b=  parseInt(document.f1.b.value);
+           c=  parseInt( document.f1.c.value);
+           d=  parseInt(document.f1.d.value);
+           e=  parseInt( document.f1.e.value);
+           f=  parseInt(document.f1.f.value);
+            sum=a+b+c+d+e+f;
+                document.f1.result.value=sum;
+                per=sum/6;
+                document.f1.per.value=per+"%";
+        }
+        function reset(){
+            document.f1.a.value=" ";
+            document.f1.b.value=" ";
+            document.f1.c.value= " ";
+            document.f1.d.value=" ";
+            document.f1.e.value=" ";
+            document.f1.f.value=" ";
+
+        }
+    </script>
+</head>
+<body>
+    <form name="f1">
+
+       Hindi: <input type="text" name="a"><br>
+        English :<input type="text" name="b"><br>
+        Maths: <input type="text" name="c"><br>
+        Science :<input type="text" name="d"><br>
+        Social:<input type="text" name="e"><br>
+        Telugu:<input type="text" name="f"><br>
+
+
+       Total :<input type="text" name="result"><br>
+       Percentage :<input type="text" name="per"><br>
+        <br>
+        <input type="button" value="Calculate" onclick="tot();">
+        
+        <input type="button" value="Reset" onclick="reset();">
+</form>
+</body>
+</html>
